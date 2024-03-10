@@ -8,9 +8,9 @@
 🛠 Tech-stack
 
 🎓 My Certificates
-- docs/QA Fundamentals - March 2022 - Certificate.jpeg
-- docs/QA Automation - May 2022 - Certificate.jpeg
-- docs/Programming Fundamentals and Unit Testing - September 2023 - Certificate.jpeg
-- docs/ASP.NET Advanced - October 2022 - Certificate.jpeg
-- docs/Programming Advanced for QA - November 2023 - Certificate.jpeg
-- docs/Back-End Technologies Basics - January 2024 - Certificate.jpeg
+- https://github.com/VessyPenkova/Sertificates/QA Fundamentals - March 2022 - Certificate.jpeg
+- https://github.com/VessyPenkova/Sertificates/QA Automation - May 2022 - Certificate.jpeg
+- https://github.com/VessyPenkova/Sertificates/Programming Fundamentals and Unit Testing - September 2023 - Certificate.jpeg
+- https://github.com/VessyPenkova/Sertificates/ASP.NET Advanced - October 2022 - Certificate.jpeg
+- https://github.com/VessyPenkova/Sertificates/Programming Advanced for QA - November 2023 - Certificate.jpeg
+- https://github.com/VessyPenkova/Sertificates/Back-End Technologies Basics - January 2024 - Certificate.jpeg
