@@ -7,9 +7,10 @@
 
 🛠 Tech-stack
 
-api/top-langs?username=VessyPenkova
+![VessyPenkova's GitHub stats](https://github-readme-stats.vercel.app/api?username=VessyPenkova&show_icons=true&theme=transparent)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VessyPenkova&layout=compact&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VessyPenkova)](https://github.com/VessyPenkova/github-readme-stats)
+
+
 
 🎓 My Certificates
 
