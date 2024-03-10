@@ -3,7 +3,7 @@
   - :world_map: How to reach me: :e-mail:
 
   - 💬 Ask me about anything - I am always ready to help if I can 💯
-  - 🌱  I’m currently learning C# and QA Automation🌱
+  - 🌱  I’m currently learning ![311524060-453d6e28-0269-419d-89d2-a0f0de09e96d](https://github.com/VessyPenkova/VessyPenkova/assets/99133121/705b2acd-07a4-458e-b2d6-debd67422fb9) and QA Automation🌱
   - 👉 Follow me! 👉
 
 ### 🛠 Tech-stack
