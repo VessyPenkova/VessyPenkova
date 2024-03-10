@@ -1,6 +1,7 @@
 ### Hi there! 👋
 
-  - 📫 How to reach me: 📫 
+  - :world_map: How to reach me: :e-mail:
+
   - 💬 Ask me about anything - I am always ready to help if I can 💯
   - 🌱  I’m currently learning C# and QA Automation🌱
   - 👉 Follow me! 👉
