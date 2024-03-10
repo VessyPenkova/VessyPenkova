@@ -8,9 +8,9 @@
 🛠 Tech-stack
 
 🎓 My Certificates
-- https://github.com/VessyPenkova/Sertificates/main/QAFundamentalsMarch2022Certificate.jpeg
-- https://github.com/VessyPenkova/Sertificates/main/QAAutomationMay2022Certificate.jpeg
-- https://github.com/VessyPenkova/Sertificates/main/ProgrammingFundamentalsandUnitTestingSeptember2023Certificate.jpeg
-- https://github.com/VessyPenkova/Sertificates/main/ASP.NETAdvancedOctober2022Certificate.jpeg
-- https://github.com/VessyPenkova/Sertificates/main/ProgrammingAdvancedforQANovember2023Certificate.jpeg
-- https://github.com/VessyPenkova/Sertificates/main/BackEndTechnologiesBasicsJanuary2024Certificate.jpg
+- https://github.com/VessyPenkova/Sertificates/main/blob/QAFundamentalsMarch2022Certificate.jpeg
+- https://github.com/VessyPenkova/Sertificates/main/blob/QAAutomationMay2022Certificate.jpeg
+- https://github.com/VessyPenkova/Sertificates/main/blob/ProgrammingFundamentalsandUnitTestingSeptember2023Certificate.jpeg
+- https://github.com/VessyPenkova/Sertificates/main/blob/ASP.NETAdvancedOctober2022Certificate.jpeg
+- https://github.com/VessyPenkova/Sertificates/main/blob/ProgrammingAdvancedforQANovember2023Certificate.jpeg
+- https://github.com/VessyPenkova/Sertificates/main/blob/BackEndTechnologiesBasicsJanuary2024Certificate.jpg
