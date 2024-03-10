@@ -7,6 +7,10 @@
 
 🛠 Tech-stack
 
+api/top-langs?username=VessyPenkova
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VessyPenkova)](https://github.com/VessyPenkova/github-readme-stats)
+
 🎓 My Certificates
 
 - https://github.com/VessyPenkova/Sertificates/blob/main/QAFundamentalsMarch2022Certificate.jpeg
