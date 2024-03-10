@@ -14,7 +14,7 @@
 
 🎓 My Certificates
 
- ![alt text](https://github.com/VessyPenkova/Sertificates/blob/main/QAFundMarch2022Cert.jpg?raw=true)  ![alt text](https://github.com/VessyPenkova/Sertificates/blob/main/QAAutomMay2022Cert.jpg?raw=true) ![alt text](https://github.com/VessyPenkova/Sertificates/blob/main/ProgrammFundamandUnitTestingSept2023Cert.jpg?raw=true)
+ ![alt text](https://github.com/VessyPenkova/Sertificates/blob/main/QAFundMarch2022Cert.jpg?raw=true)  ![alt text](https://github.com/VessyPenkova/Sertificates/blob/main/QAAutomMay2022Cert.jpg?raw=true)  ![alt text](https://github.com/VessyPenkova/Sertificates/blob/main/ProgramFundUnitTestSept2023Cert.jpg?raw=true)
 
 
 - ![alt text](https://github.com/VessyPenkova/Sertificates/blob/main/ProgrammingAdvancedforQANovember2023Certificate.jpeg?raw=true)
