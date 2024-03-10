@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**VessyPenkova/VessyPenkova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📫 How to reach me: 📫 
+- 💬 Ask me about anything - I am always ready to help if I can 💯
+- 🌱  I’m currently learning C# and QA Automation🌱
+- 👉 Follow me! 👉
 
-Here are some ideas to get you started:
+🛠 Tech-stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 My Certificates
+- QA Fundamentals - March 2022 - Certificate.jpeg
+- QA Automation - May 2022 - Certificate.jpeg
+- Programming Fundamentals and Unit Testing - September 2023 - Certificate.jpeg
+- ASP.NET Advanced - October 2022 - Certificate.jpeg
+- Programming Advanced for QA - November 2023 - Certificate.jpeg
+- Back-End Technologies Basics - January 2024 - Certificate.jpeg
