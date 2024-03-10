@@ -13,4 +13,4 @@
 - https://github.com/VessyPenkova/Sertificates/main/ProgrammingFundamentalsandUnitTestingSeptember2023Certificate.jpeg
 - https://github.com/VessyPenkova/Sertificates/main/ASP.NETAdvancedOctober2022Certificate.jpeg
 - https://github.com/VessyPenkova/Sertificates/main/ProgrammingAdvancedforQANovember2023Certificate.jpeg
-- https://github.com/VessyPenkova/Sertificates/main/BackEndTechnologiesBasicsJanuary2024Certificate.jpeg
+- https://github.com/VessyPenkova/Sertificates/main/BackEndTechnologiesBasicsJanuary2024Certificate.jpg
