@@ -5,7 +5,7 @@
   - 🌱  I’m currently learning C# and QA Automation🌱
   - 👉 Follow me! 👉
 
-### 🛠 Tech-stack
+### 🛠 Tech-stack !{alt text(Screenshot 2024-03-26 210834.png)![alt text]
 
   ![VessyPenkova's GitHub stats](https://github-readme-stats.vercel.app/api?username=VessyPenkova&show_icons=true&theme=transparent)        ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VessyPenkova&layout=compact&theme=transparent)
 
