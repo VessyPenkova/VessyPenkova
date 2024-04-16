@@ -1,5 +1,5 @@
-
- 👋 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=F5F7F5&multiline=true&random=false&width=520&height=65&lines=Hello+there%2C+I'm+Veselina.+I+remain+deeply;+committed++to+advancing+my+expertise+in+QA+;through+continuous+learning+!)](https://git.io/typing-svg) 👋
+👋
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=F5F7F5&multiline=true&random=false&width=520&height=65&lines=Hello+there%2C+I'm+Veselina.+I+remain+deeply;+committed++to+advancing+my+expertise+in+QA+;through+continuous+learning+!)](https://git.io/typing-svg) 👋
 
 
 
