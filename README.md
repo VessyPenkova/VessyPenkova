@@ -14,7 +14,7 @@
   ![alt text](https://github.com/VessyPenkova/Sertificates/blob/main/QAFundMarch2022Cert.jpg?raw=true)  ![alt text](https://github.com/VessyPenkova/Sertificates/blob/main/QAAutomMay2022Cert.jpg?raw=true)  ![alt text](https://github.com/VessyPenkova/Sertificates/blob/main/ProgramFundUnitTestSept2023Cert.jpg?raw=true)
   ![alt text](https://github.com/VessyPenkova/Sertificates/blob/main/ProgramAdvforQANov2023Cert.jpg?raw=true) ![alt text](https://github.com/VessyPenkova/Sertificates/blob/main/BackEndTechBasicsJan2024Cert.jpg?raw=true) ![alt text](https://github.com/VessyPenkova/Sertificates/blob/main/ASPNETAdvOct2022Cert.jpg?raw=true)
 
-  [![Typing SVG](https://github.com/VessyPenkova/Sertificates/blob/main/github-snake.svg)
+  ![Typing SVG](https://github.com/VessyPenkova/Sertificates/blob/main/github-snake.svg)
 
 
 
