@@ -7,9 +7,12 @@
 
 ### 🛠 Tech-stack   ![alt text](https://github.com/VessyPenkova/Sertificates/blob/main/teck-stack.png)
 
-  ![Typing SVG](https://github.com/VessyPenkova/Sertificates/blob/main/github-snake.svg)
+
 
   ![VessyPenkova's GitHub stats](https://github-readme-stats.vercel.app/api?username=VessyPenkova&show_icons=true&theme=transparent)        ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VessyPenkova&layout=compact&theme=transparent)
+
+
+    ![Typing SVG](https://github.com/VessyPenkova/Sertificates/blob/main/github-snake.svg)
 
 ### 🎓 My Certificates
 
