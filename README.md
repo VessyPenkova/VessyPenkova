@@ -1,3 +1,4 @@
+
 ###  👋
 
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=barlow&size=14&pause=1000&color=F5F7F5&multiline=true&random=false&width=800&height=65&lines=Hello+there%2C+I'm+Veselina.+I+remain+deeply;+committed++to+advancing+my+expertise+in+QA+;through+continuous+learning!)](https://git.io/typing-svg)  👋
@@ -9,12 +10,12 @@
 
 ### 🛠 Tech-stack   ![alt text](https://github.com/VessyPenkova/Sertificates/blob/main/teck-stack.png)
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=c16df1)
+
 
  
   ![VessyPenkova's GitHub stats](https://github-readme-stats.vercel.app/api?username=VessyPenkova&show_icons=true&theme=transparent)        ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VessyPenkova&layout=compact&theme=transparent)
 
-
+![](https://komarev.com/ghpvc/?username=your-github-username&color=c16df1)
 ### 🎓 My Certificates
 
 
