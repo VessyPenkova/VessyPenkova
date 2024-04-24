@@ -15,7 +15,7 @@
  
   ![VessyPenkova's GitHub stats](https://github-readme-stats.vercel.app/api?username=VessyPenkova&show_icons=true&theme=transparent)        ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VessyPenkova&layout=compact&theme=transparent)
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=c16df1)
+![](https://komarev.com/ghpvc/?username=your-github-username&color=874ca8)
 ### 🎓 My Certificates
 
 
