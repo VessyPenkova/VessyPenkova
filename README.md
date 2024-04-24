@@ -9,6 +9,8 @@
 
 ### 🛠 Tech-stack   ![alt text](https://github.com/VessyPenkova/Sertificates/blob/main/teck-stack.png)
 
+![](https://komarev.com/ghpvc/?username=your-github-username&color=c16df1)
+
  
   ![VessyPenkova's GitHub stats](https://github-readme-stats.vercel.app/api?username=VessyPenkova&show_icons=true&theme=transparent)        ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VessyPenkova&layout=compact&theme=transparent)
 
