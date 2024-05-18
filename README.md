@@ -8,7 +8,8 @@
   - 🌱  I’m currently learning C# and QA Automation🌱
   - 👉 Follow me! 👉
 
-### 🛠 Tech-stack   ![alt text](https://github.com/VessyPenkova/Sertificates/blob/main/teck_stack_new.png)
+
+### 🛠 Tech-stack   ![alt text](https://github.com/VessyPenkova/Sertificates/blob/main/teck_stack_new1.png)
 
 
 
