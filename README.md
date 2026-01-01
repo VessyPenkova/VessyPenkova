@@ -22,7 +22,7 @@
 
 
 ![alt text](https://github.com/VessyPenkova/Sertificates/blob/main/Diploms.png?raw=true) 
-![alt text](https://github.com/VessyPenkova/Sertificates/blob/main/CSharp_Developer.png?raw=true)   
+![alt text](https://github.com/VessyPenkova/Sertificates/blob/main/Front-end.png?raw=true)   
 
 
   ![Typing SVG](https://github.com/VessyPenkova/Sertificates/blob/main/github-snake.svg)
