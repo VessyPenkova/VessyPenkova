@@ -1,9 +1,10 @@
 
 ###  👋
 
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=barlow&size=14&pause=1000&color=4B83F7FF&multiline=true&random=false&width=800&height=65&lines=Hello+there%2C+I'm+Veselina.+I+remain+deeply;+committed++to+advancing+my+expertise+in+QA+;through+continuous+learning!)](https://git.io/typing-svg)  👋
- 
 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=barlow&size=14&pause=1000&color=4B83F7FF&multiline=true&random=false&width=800&height=65&lines=Hello+there%2C+I'm+Veselina.;Currently+expanding+my+skills+in+C%23+and+ASP.NET.;With+background+in+QA+Automation.)](https://git.io/typing-svg)
+   👋
   - :world_map: How to reach me: :e-mail:
   - 💬 Ask me about anything - I am always ready to help if I can 💯
   - 🌱  I’m currently learning C# and QA Automation🌱
