@@ -7,7 +7,7 @@
    👋
   - :world_map: How to reach me: :e-mail:
   - 💬 Ask me about anything - I am always ready to help if I can 💯
-  - 🌱  I’m currently learning C# and QA Automation🌱
+  - 🌱  Working with C# and ASP.NET, continuously improving my skills.🌱
   - 👉 Follow me! 👉
 
 
